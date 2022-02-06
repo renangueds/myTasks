@@ -1,8 +1,8 @@
-# To Do List
+# myTasks
 
 > Status: Developing ⚠️
 
-Organizador de tarefas desenvolvido com o ReactJS.
+Organizador de tarefas desenvolvido com Create React App.
 
 ## Tecnologias usadas:
 
