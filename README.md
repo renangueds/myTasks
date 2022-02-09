@@ -1,3 +1,5 @@
+![app-my-tasks](https://user-images.githubusercontent.com/65745702/153210307-2a2fa976-7550-414e-9ba7-64b358e2f7e2.png)
+
 # myTasks
 
 > Status: Developing ⚠️
